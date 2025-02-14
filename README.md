@@ -1,7 +1,7 @@
 # CS303_DataStructures_2025
-Run project1_main.cpp
-Follow Instructions in Console to test functions
-6 options provided
+- Run project1_main.cpp
+- Follow Instructions in Console to test functions
+- 6 options provided
 - 1. Check if an entry exists\n";
 - 2. Modify an entry
 - 3. Add an entry
